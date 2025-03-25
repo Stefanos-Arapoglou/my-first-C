@@ -14,6 +14,7 @@ namespace CSharpTutorials
       Console.WriteLine(message);
       for(i=0;i<5;i++){
       Console.WriteLine("Value of i: {O}",i);
+Console.WriteLine("and again Value of i: {O}",i)
     }
   }
 }
