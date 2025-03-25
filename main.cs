@@ -12,6 +12,8 @@ namespace CSharpTutorials
     {
       string message = "Hello World!! It's me!";
       Console.WriteLine(message);
+      for(i=0;i<5;i++){
+      Console.WriteLine("Value of i: {O}",i);
     }
   }
 }
